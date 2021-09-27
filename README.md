@@ -1,1 +1,1 @@
-# Fundamentals-of-Data-Analysis
+# Fundamentals of Data Analysis
